@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Apr 20, 2026, 03_21_10 AM" src="https://github.com/user-attachments/assets/b77b65eb-cd25-4da3-8dcd-e495cc8842fd" />
+
 # Global Landslide Catalog — End-to-End Machine Learning Project
 
 A clean, beginner-friendly end-to-end machine learning pipeline on the **NASA Global Landslide Catalog**. The project walks through data understanding, missing-value analysis, cleaning, outlier handling, exploratory data analysis, feature engineering, and training **8 machine learning models** to predict landslide size and fatality count.
@@ -214,6 +216,8 @@ Linear and distance-based models (Logistic Regression, KNN, Naive Bayes, SVM) as
 - **Most events cause zero fatalities and zero injuries** — a small long tail drives all the human impact
 - **Reporting activity peaked around 2010–2011** — reflects catalog maintenance more than actual frequency
 - **"medium" is the most common landslide size**; catastrophic events are extremely rare
+<img width="1536" height="1024" alt="ChatGPT Image Apr 20, 2026, 03_37_19 AM" src="https://github.com/user-attachments/assets/ad8202be-d4e9-4b55-9164-a3c82208e278" />
+
 
 ---
 
