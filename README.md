@@ -1,3 +1,4 @@
+
 <img width="1536" height="1024" alt="ChatGPT Image Apr 20, 2026, 03_21_10 AM" src="https://github.com/user-attachments/assets/b77b65eb-cd25-4da3-8dcd-e495cc8842fd" />
 
 # Global Landslide Catalog — End-to-End Machine Learning Project
